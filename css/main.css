@@ -5,7 +5,7 @@ body {
     padding-top:50px;
     height:500px;
     color: #fff;
-    background-color: #673ab7;
+    background-img: url(pictures/Schwab.jpg);
 }
 #About img{
     float: left;
