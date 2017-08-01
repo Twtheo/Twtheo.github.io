@@ -21,6 +21,8 @@ body {
     background-color: #ff0000;
     background-image: url("Schwab.jpg");
     background-size: cover;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 #About img{
     float: left;
