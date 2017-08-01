@@ -1,11 +1,14 @@
 body {
     position: relative;
 }
+.content{
+    background-color: rgba(255,255,255,0.5);
+}
 #About {
     padding-top:50px;
     height:500px;
     color: #fff;
-    background-img: url(pictures/Schwab.jpg);
+    background-image: url("pictures/Schwab.jpg");
 }
 #About img{
     float: left;
