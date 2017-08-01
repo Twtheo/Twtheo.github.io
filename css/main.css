@@ -32,7 +32,9 @@ body {
 #Footbox {
     color: #ffffff;
     margin: auto;
+    display: flex;
     text-align: center;
+    align-items: center;
     vertical-align: middle;
 }
     
