@@ -9,6 +9,7 @@ body {
     height:500px;
     color: #fff;
     background-image: url("Schwab.jpg");
+    background-size: cover;
 }
 #About img{
     float: left;
@@ -23,12 +24,16 @@ body {
     height:500px;
     color: #fff;
     background-color: #ff9800;
+    background-image: url("Team2.jpg");
+    background-size: cover;
 }
 #Family {
     padding-top:50px;
     height:500px;
     color: #fff;
     background-color: #00bcd4;
+    background-image: url("Team1.jpg");
+    background-size: cover;
 }
 
 #Footman {
