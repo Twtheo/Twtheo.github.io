@@ -1,20 +1,26 @@
 body {
     position: relative;
 }
-#section1 {
+#Home {
     padding-top:50px;
     height:500px;color: #fff;
     background-color: #1E88E5;
 }
-#section2 {
+#About {
     padding-top:50px;
     height:500px;
     color: #fff;
     background-color: #673ab7;
 }
-#section3 {
+#Hobbies {
     padding-top:50px;
     height:500px;
     color: #fff;
     background-color: #ff9800;
+}ff9800
+#Family {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #00bcd4;
 }
