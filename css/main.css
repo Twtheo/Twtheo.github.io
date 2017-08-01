@@ -6,6 +6,8 @@ body {
     height: 100%;
     width: 100%;
     color: #000000;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 .content h1{
     padding-top: 0px;
@@ -13,8 +15,6 @@ body {
 }
 
 #About {
-    margin-left: 0px;
-    margin-right: 0px;
     padding-top:50px;
     height:500px;
     color: #fff;
@@ -32,8 +32,6 @@ body {
 
 #Hobbies {
     /*padding-top:50px;*/
-    margin-left: 0px;
-    margin-right: 0px;
     height:500px;
     color: #fff;
     background-color: #ff9800;
@@ -42,8 +40,6 @@ body {
 }
 #Family {
     /*padding-top:50px;*/
-    margin-left: 0px;
-    margin-right: 0px;
     height:500px;
     color: #fff;
     background-color: #00bcd4;
