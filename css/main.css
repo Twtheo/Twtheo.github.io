@@ -7,6 +7,14 @@ body {
     color: #fff;
     background-color: #673ab7;
 }
+#About img{
+    float: left;
+    margin: 10px;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.3);
+    border: 2px;
+    border-color: #222;
+}
+
 #Hobbies {
     padding-top:50px;
     height:500px;
