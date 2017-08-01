@@ -1,6 +1,17 @@
 body {
     position: relative;
 }
+
+.navbar{
+    height: 80px;
+}
+.navbar-inverse{
+    height: 80px;
+}
+.navbar-fixed-top{
+    height: 80px;
+}
+
 #Home {
     padding-top:50px;
     height:500px;color: #fff;
