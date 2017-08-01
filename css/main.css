@@ -26,6 +26,8 @@ body {
 }
 
 #Footman {
+    height: 100px;
+    color: #ffffff;
     text-align: center;
     background-color: #222;
 }
