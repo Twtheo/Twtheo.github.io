@@ -27,8 +27,11 @@ body {
 
 #Footman {
     height: 100px;
-    color: #ffffff;
-    text-align: center;
     background-color: #222;
-    padding: auto;
 }
+#Footbox {
+    color: #ffffff;
+    margin: auto;
+    text-align: center;
+}
+    
