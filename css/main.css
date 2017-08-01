@@ -2,7 +2,7 @@ body {
     position: relative;
 }
 .content{
-    background-color: rgba(255,255,255,0.7);
+    background-color: rgba(255,255,255,0.5);
     height: 100%;
     width: 100%;
     color: #000000;
@@ -21,8 +21,8 @@ body {
     height:500px;
     color: #fff;
     background-color: #ff0000;
-    /*background-image: url("Schwab.jpg");
-    background-size: cover;*/
+    background-image: url("Schwab.jpg");
+    background-size: cover;
 }
 #About img{
     float: left;
@@ -37,16 +37,16 @@ body {
     height:500px;
     color: #fff;
     background-color: #ff9800;
-    /*background-image: url("Team2.jpg");
-    background-size: cover;*/
+    background-image: url("Team2.jpg");
+    background-size: cover;
 }
 #Family {
     /*padding-top:50px;*/
     height:500px;
     color: #fff;
     background-color: #00bcd4;
-    /*background-image: url("Team1.jpg");
-    background-size: cover;*/
+    background-image: url("Team1.jpg");
+    background-size: cover;
 }
 
 #Footman {
