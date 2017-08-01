@@ -8,7 +8,7 @@ body {
     padding-top:50px;
     height:500px;
     color: #fff;
-    background-image: url("pictures/Schwab.jpg");
+    background-image: url("./pictures/Schwab.jpg");
 }
 #About img{
     float: left;
