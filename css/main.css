@@ -62,6 +62,10 @@ body
     background-image: url("BikeBG.jpg");
     background-size: cover;
 }
+#Hobbies h1{
+    padding: 30px;   
+}
+
 #Family {
     /*padding-top:50px;*/
     min-height:500px;
@@ -72,6 +76,9 @@ body
     height: 100vh;
     background-image: url("MountainBG.jpg");
     background-size: cover;
+}
+#Family h1 {
+    padding: 30px;   
 }
 
 #Footman {
