@@ -33,7 +33,7 @@ body
 #About {
     padding-top:60px;
     height: 100vh;
-    min-height:500px;
+    min-height:100%;
     /*background-color: #ff3333;*/
     background-image: url("CanadaBG.jpg");
     background-size: cover;
@@ -54,7 +54,7 @@ body
 
 #Hobbies {
     /*padding-top:50px;*/
-    min-height:500px;
+    min-height:100%;
     background-color: #ffffff;
     padding-left: 0px;
     padding-right: 0px;
@@ -68,7 +68,7 @@ body
 
 #Family {
     /*padding-top:50px;*/
-    min-height:500px;
+    min-height:100%;
     background-color: #ff3333;
     padding-left: 0px;
     padding-right: 0px;
