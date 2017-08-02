@@ -31,6 +31,9 @@ body
     font-size: 25px;  
     padding: 30px;
     text-align: center;
+}
+
+.contentBox {
     display: flex;
     justify-content: center;
     align-items: center; 
