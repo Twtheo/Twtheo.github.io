@@ -30,6 +30,7 @@ body
 .content p{
     font-size: 25px;  
     padding: 30px;
+    text-align: center;
 }
 
 #About {
