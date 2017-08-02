@@ -32,6 +32,7 @@ body
     margin-top: 0px;
     font-size: 50px;
     font-weight: bold;
+    text-align: center;
 }
 .content p{
     font-size: 25px;  
@@ -51,7 +52,6 @@ body
 }
 #About h1{
     padding-top: 20px;
-    margin: auto;
 }
 #About img{
     margin-top: 20px;  
