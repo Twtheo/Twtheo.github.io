@@ -32,6 +32,7 @@ body {
 
 #About {
     padding-top:80px;
+    height: 100vh;
     min-height:500px;
     color: #fff;
     /*background-color: #ff3333;*/
