@@ -32,9 +32,11 @@ body {
 
 #About {
     padding-top:80px;
-    /*height:500px;*/
+    min-height:500px;
     color: #fff;
     background-color: #ff3333;
+    background-image: url("CanadaBG.jpg");
+    background-size: cover;
     padding-left: 0px;
     padding-right: 0px;
 }
@@ -48,7 +50,7 @@ body {
 
 #Hobbies {
     /*padding-top:50px;*/
-    /*height:500px;*/
+    min-height:500px;
     color: #fff;
     background-color: #ffffff;
     padding-left: 0px;
@@ -56,11 +58,12 @@ body {
 }
 #Family {
     /*padding-top:50px;*/
-    /*height:500px;*/
+    min-height:500px;
     color: #fff;
     background-color: #ff3333;
     padding-left: 0px;
     padding-right: 0px;
+    padding-bot: 50px;
 }
 
 #Footman {
