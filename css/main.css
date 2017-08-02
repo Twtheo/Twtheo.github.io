@@ -32,7 +32,7 @@ body {
 
 #About {
     padding-top:80px;
-    height:500px;
+    /*height:500px;*/
     color: #fff;
     background-color: #ff3333;
     padding-left: 0px;
@@ -48,7 +48,7 @@ body {
 
 #Hobbies {
     /*padding-top:50px;*/
-    height:500px;
+    /*height:500px;*/
     color: #fff;
     background-color: #ffffff;
     padding-left: 0px;
@@ -56,7 +56,7 @@ body {
 }
 #Family {
     /*padding-top:50px;*/
-    height:500px;
+    /*height:500px;*/
     color: #fff;
     background-color: #ff3333;
     padding-left: 0px;
