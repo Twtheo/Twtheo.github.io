@@ -33,12 +33,6 @@ body
     text-align: center;
 }
 
-.contentBox {
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-}
-
 #About {
     padding-top:60px;
     min-height: 100vh;
