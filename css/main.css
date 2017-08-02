@@ -4,12 +4,13 @@ body {
 
 .navbar-fixed-top {
     min-height: 80px;
+    line-height: 80px;
 }
-.navbar-nav > li > a {
+/*.navbar-nav > li > a {
     padding-top: 0px;
     padding-bottom: 0px;
     line-height: 80px;
-}
+}*/
 
 .content{
     /*background-color: rgba(255,255,255,0.4);*/
@@ -29,7 +30,7 @@ body {
 }
 
 #About {
-    padding-top:50px;
+    padding-top:80px;
     height:500px;
     color: #fff;
     background-color: #ff3333;
