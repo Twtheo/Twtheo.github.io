@@ -33,7 +33,7 @@ body
 
 #About {
     padding-top:60px;
-    height: 100vh;
+    /*height: 100vh;*/
     min-height:100%;
     /*background-color: #ff3333;*/
     background-image: url("CanadaBG.jpg");
@@ -59,7 +59,7 @@ body
     background-color: #ffffff;
     padding-left: 0px;
     padding-right: 0px;
-    height: 100vh;
+    /*height: 100vh;*/
     background-image: url("BikeBG.jpg");
     background-size: cover;
 }
@@ -74,7 +74,7 @@ body
     padding-left: 0px;
     padding-right: 0px;
     padding-bot: 50px;
-    height: 100vh;
+    /*height: 100vh;*/
     background-image: url("MountainBG.jpg");
     background-size: cover;
 }
