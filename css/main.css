@@ -2,7 +2,7 @@ body {
     position: relative;
 }
 .content{
-    background-color: rgba(255,255,255,0.4);
+    /*background-color: rgba(255,255,255,0.4);*/
     height: 100%;
     width: 100%;
     color: #000000;
@@ -15,7 +15,7 @@ body {
     font-weight: bold;
 }
 .content p{
-    font-size: 30px;   
+    font-size: 25px;   
 }
 
 #About {
@@ -23,8 +23,6 @@ body {
     height:500px;
     color: #fff;
     background-color: #ff0000;
-    background-image: url("Schwab.jpg");
-    background-size: cover;
     padding-left: 0px;
     padding-right: 0px;
 }
@@ -41,9 +39,7 @@ body {
     /*padding-top:50px;*/
     height:500px;
     color: #fff;
-    background-color: #ff9800;
-    background-image: url("Team2.jpg");
-    background-size: cover;
+    background-color: #ffffff;
     padding-left: 0px;
     padding-right: 0px;
 }
@@ -51,9 +47,7 @@ body {
     /*padding-top:50px;*/
     height:500px;
     color: #fff;
-    background-color: #00bcd4;
-    background-image: url("Team1.jpg");
-    background-size: cover;
+    background-color: #ff0000;
     padding-left: 0px;
     padding-right: 0px;
 }
