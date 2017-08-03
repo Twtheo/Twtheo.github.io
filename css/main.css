@@ -27,7 +27,7 @@ body
     color: #fff;
 }
 .navbar-inverse .navbar-nav .active {
-    background-color: none;
+    background-color: #ff0000;
     color: #9d9d9d;
 }
 
