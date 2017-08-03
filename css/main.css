@@ -77,6 +77,10 @@ body
 #Home img{
     margin-top: 20px;  
 }
+.home-container {
+    vertical-align: middle;
+    margin: auto;
+}
 
 #About {
     /*padding-top:50px;*/
