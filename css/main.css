@@ -26,7 +26,7 @@ body
 .navbar-inverse .navbar-nav>li>a {
     color: #fff;
 }
-.navbar-inverse .navbar-nav>li>a:active {
+.navbar-inverse .navbar-nav .active {
     background-color: none;
     color: #9d9d9d;
 }
