@@ -40,7 +40,6 @@ body
     height: 100%;
     width: 100%;
     color: #fff;
-    padding-top: 20%;
 }
 .content img{
     margin: 20px;
@@ -61,6 +60,10 @@ body
     text-align: center;
     width: 80%;
     margin: auto;
+}
+
+.content #Home{
+    padding: 20%;
 }
 
 #Home {
